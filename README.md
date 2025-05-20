@@ -58,9 +58,9 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://github.com/lzy1016/lzy1016/blob/main/123.jpg"  />
-</div>
+|！[背景图]（https://raw.githubusercontent.com/lzy1016/lzy1016/main/123.jpg ）.|
+|:---------------------------------------------------------------------------:|
+|**welcome**<br><br>|
 
 ###
 
