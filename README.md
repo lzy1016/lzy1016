@@ -58,7 +58,7 @@
 
 ###
 
-|！[背景图]（https://raw.githubusercontent.com/lzy1016/lzy1016/main/123.jpg ）.|
+|![背景图](https://raw.githubusercontent.com/lzy1016/lzy1016/main/123.jpg)|
 |:---------------------------------------------------------------------------:|
 |**welcome**<br><br>|
 
